@@ -4,7 +4,7 @@ export const profile = {
     "Frontend / Full-Stack Developer (MERN) — AI-assisted (Cursor + Copilot)",
   location: "Mumbai, Maharashtra, India",
   phone: "7738520383",
-  email: "farhan.siddiquimahan@gmail.com",
+  email: "essa.siddiquimahan@gmail.com",
   github: "https://github.com/essasiddiqui12",
   aboutShort:
     "Developer with hands-on experience building secure and scalable applications using the MERN stack, focusing on clean UI, logic-driven development, and AI-assisted productivity.",
