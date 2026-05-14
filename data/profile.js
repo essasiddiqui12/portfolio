@@ -42,7 +42,7 @@ I’m naturally curious, a quick learner, and I enjoy improving my skills with e
     {
       role: "Freelance Developer",
       company: "Self-employed",
-      date: "May 2025 — Jun 2025",
+      date: "May 2025 — Dec 2025",
       bullets: [
         "Built a secure group-lottery full-stack app with Node, Express, MySQL.",
         "Integrated Square payments and notification services (ClickSend / MailerSend).",
