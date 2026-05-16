@@ -1,7 +1,7 @@
 export const profile = {
   name: "Mohd Essa Siddiqui",
   title:
-    "Frontend / Full-Stack Developer (MERN) — AI-assisted (Cursor + Copilot)",
+    "Frontend / Full-Stack Developer (MERN) — AI-assisted",
   location: "Mumbai, Maharashtra, India",
   phone: "7738520383",
   email: "essa.siddiquimahan@gmail.com",
